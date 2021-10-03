@@ -1,0 +1,10 @@
+.leftPanel {
+    /*height: calc(100vh - 40px);*/
+    background: lightgray;
+    margin-right: 100px;
+    display: flex;
+}
+
+.leftPanel>div {
+    padding: 0 10px;
+}
